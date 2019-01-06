@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icons/clock.png</file>
+        <file>icons/next.png</file>
+        <file>icons/return.png</file>
+        <file>icons/previousPage.png</file>
+        <file>icons/return_2.png</file>
+        <file>icons/return_1.png</file>
+        <file>icons/downarrow.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/restart .png</file>
+        <file>icons/return (1).png</file>
+        <file>icons/hint.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/clock(1).png</file>
+        <file>icons/continue.png</file>
+        <file>icons/icon_continue.png</file>
+        <file>icons/succeed.png</file>
+    </qresource>
+</RCC>
